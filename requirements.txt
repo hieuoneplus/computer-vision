@@ -15,3 +15,4 @@ gdown
 webcolors
 pandas_profiling
 torchvision
+imutils
